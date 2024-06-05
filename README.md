@@ -1,3 +1,3 @@
 # apna-college
 this is my first repo8u
-author-shradha khpra
+author-shradha khpra(apna coillege)
